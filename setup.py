@@ -9,4 +9,5 @@ install_requires=[],
 author_email='jason.fedorowich@gmail.com',
 python_requires='>=3',
 packages=setuptools.find_packages(),
-zip_safe=False)
+zip_safe=False,
+long_description="Package to sort Json from files, strings or dictionary for usage see: https://github.com/jasonfedorowich/jsonsort" )
